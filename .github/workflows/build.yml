@@ -79,7 +79,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: alliedmodders/hl2sdk-manifests
-          ref: master
+          ref: 533fb82346a469e7471d11bba2ad25118ac8b382
           path: project/hl2sdk-manifests
 
       # Build
